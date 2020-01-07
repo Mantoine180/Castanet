@@ -24,6 +24,7 @@ h1
 {
     font-size: 18px;
     font-weight: bold;
+    border:2px solid rgb(73, 134, 212);
     text-align: center;
     color: rgb(73, 134, 212);
 
